@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    font-size: 21px;
+    color: palevioletred;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    font-size: 70px;
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0px;
+    text-align: center;
+    text-decoration: underline;
+}
+h2{
+    margin-top: 0px;
+    text-align: left;
+    text-transform: uppercase;
+}
+p{
+    line-height: 1.2;
+    font-style: italic;
+    text-transform: capitalize;
+}
+a{
+    color: aqua;
+    text-decoration: none;
+}
+a:hover{
+    color: blueviolet;
+}
+a:visited{
+    color: orange;
+}
+a:active{
+    color: blue;
+}
